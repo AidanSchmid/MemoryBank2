@@ -26,3 +26,4 @@ const Modal = ({ setSelectedImg, selectedImg }) => {
 };
 
 export default Modal;
+// Hi
